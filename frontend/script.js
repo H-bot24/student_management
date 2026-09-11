@@ -1,4 +1,4 @@
-const API_URL = 'https://studentmanagement-production-5015.up.railway.app/';
+const API_URL = 'studentmanagement-production-5015.up.railway.app';
 
 // DOM Elements
 const form = document.getElementById('student-form');
