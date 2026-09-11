@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8000/students';
+const API_URL = 'studentmanagement-production-d58c.up.railway.app';
 
 // DOM Elements
 const form = document.getElementById('student-form');
